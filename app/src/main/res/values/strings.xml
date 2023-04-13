@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">My Application Submission</string>
+
+    <string name="song_name">Judul Lagu</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>White Wedding - Billy Idol</item>
+        <item>Paranoid - Black Sabbath</item>
+        <item>Sorry - Guns N Roses</item>
+        <item>Sweet Child O Mine - Guns N Roses</item>
+        <item>Welcome To The Jungle - Guns N Roses</item>
+        <item>Dont Cry - Guns N Roses</item>
+        <item>Wish You Were Here - Pink Floyd</item>
+        <item>Always - Bon Jovi</item>
+        <item>Since I Dont Have You - Guns N Roses</item>
+        <item>Patience - Guns N Roses</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>White wedding merupakan lagu yang di dalamnya tersirat bentuk permohonan misterius dari Billy Idol kepada Adik Perempuan saat Pernikahannya</item>
+        <item>Lagu ini terinspirasi dari Band Led Zeppeling dengan sentuhan Instrumentalisasi di dalamnya ingin mengibarkan bendera perang band Rock and Roll asal Inggris</item>
+        <item>Lagu yang mencerikan tentang axl rose dengan pasanganya yang meyakinkan sang kekasih untuk terbuka padanya tidak hanya itu sepenuh hatinya mengerti mengapa sang kekasih takut untuk mempercayai seseorang</item>
+        <item>Axl memberikan kisah cinta dengan Everly sang istri melalui lagu ini yang dimana mereka harus berpisah setelah satu bulan menikah, lagu ini begitu tragis mengenai waktu masa lalu dengan Everly.</item>
+        <item>Lagu yang memiliki irama berat, alur yang kotor sehingga lagu ini menceritakan tentang rumah kediaman atau tempat tinggal sang gitaris yaitu Slash</item>
+        <item>Lagu ini menceritakan tentang hubungan segitiga antara Axl, Izzy dengan seorang wanita yang sama sama dicintai. Wanit tersebut memutuskan untuk tidak memilih keduanya</item>
+        <item>Lagu yang menceritakan tentang perasaan terpisah yang di alami kebanyakan orang sepanjang hidup. Lagu ini terinspirasi dari jiwa Syd Barret sebagai seorang Pemimpin</item>
+        <item>Menceritakan tentang seseorang yang jatuh cinta pada seorang gadis namun naas hubungan tersebut tidak berhasil dijalani walaupun gadis tersebut selalu dihatinya</item>
+        <item>Lagu ini menceritakan tentang perpisahan dengan sang kekasih sejati. Dia sudah merasa kehilangan besar seseorang yang sangat dicintai nya serta sudah tidak mempunyai apa apa baik rencana ataupun yang akan dilakukannya</item>
+        <item>Begitu tersirat lagu ini menciptakan kesedihan yang begitu mendalam. Lagu ini menceritakan tentang seseorang lelaki yang tidak bisa move on kepada mantan perempuannya</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/billyidol</item>
+        <item>@drawable/blacksabb</item>
+        <item>@drawable/chinesedemo</item>
+        <item>@drawable/gunsnroses</item>
+        <item>@drawable/gunsnrosesa</item>
+        <item>@drawable/gunsnrs</item>
+        <item>@drawable/pinkfloy</item>
+        <item>@drawable/rockclassics</item>
+        <item>@drawable/sinceidont</item>
+        <item>@drawable/useyourl</item>
+    </integer-array>
+
+    <string-array name="data_genre">
+        <item>Rock Classics</item>
+        <item>Rock Heavy</item>
+        <item>Rock</item>
+        <item>Rock Classics</item>
+        <item>Rock Classics</item>
+        <item>Rock Classics</item>
+        <item>Rock Classics Heavy</item>
+        <item>Rock Classics Heavy</item>
+        <item>Blues</item>
+        <item>Classic</item>
+    </string-array>
+
+    <string name="playsong"><b> Guns N Roses - Since I Dont Have You </b></string>
+    <string name="lyric">
+        I dont have plans and schemes \n
+        And I dont have hopes and dreams \n
+        I I I dont have anything \n
+        Since I dont have you
+    </string>
+    <string name="my_nama">Aditya Rizkiawan Nugraha</string>
+    <string name="my_email">adityarizkiawann@gmail.com</string>
+    <string name="univ">Di Coding 2023</string>
+    <string name="move_share"></string>
+    <string name="genre">Genre</string>
+
+
+
+</resources>
