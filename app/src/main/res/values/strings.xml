@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Intent</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="this_move_activity">MoveActivity</string>
+
+</resources>
