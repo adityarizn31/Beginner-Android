@@ -49,6 +49,7 @@
         />
 
     <Button
+        style="@style/ButtonGeneral.SecondaryVariant"
         android:id="@+id/button_buy"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
